@@ -1,0 +1,15 @@
+python-dotenv
+requests
+httpx
+aiohttp
+livekit-agents
+livekit-plugins-noise-cancellation
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-groq
+livekit-plugins-deepgram
+# livekit-plugins-murf
+qdrant-client
+tiktoken
+langchain-text-splitters
+pypdf
